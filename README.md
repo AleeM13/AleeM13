@@ -4,7 +4,7 @@
 - 🌱 Aprendiendo nuevas tecnologías.
 - 🏢 Me gustaría formarme profesinonalmente.
 - 👯 Tengo facilidad para trabajar en equipo.
--  Soy de Santiagdo del Estero, Argentina.
+- 🇦🇷 Soy de Santiagdo del Estero, Argentina.
 - ⚡ Fun fact: Me gustan la música y los videojuegos!
 
 ### Mis redes:

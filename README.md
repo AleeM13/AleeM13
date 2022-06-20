@@ -1,4 +1,4 @@
-! [GitHub Views](https://komarev.com/ghpvc/?username=AleeM13&color=2685BF)
+![GitHub Views](https://komarev.com/ghpvc/?username=AleeM13&color=2685BF)
 
 ### Hola soy Alejandro Miranda 👋
  

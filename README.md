@@ -1,9 +1,12 @@
+! [GitHub Views](https://komarev.com/ghpvc/?username=AleeM13&color=2685BF)
+
 ### Hola soy Alejandro Miranda 👋
  
 ## Full stack web developer
 - 🌱 Aprendiendo nuevas tecnologías.
-- 👯 Me gustaría formarme profesinonalmente en alguna empresa.
-- ⚡ Fun fact: Me gustan los videojuegos!
+- 🏢 Me gustaría formarme profesinonalmente.
+- 👯 Tengo facilidad para trabajar en equipo
+- ⚡ Fun fact: Me gustan la música y los videojuegos!
 
 ### Mis redes:
 
@@ -30,8 +33,6 @@
 
 ---
 
-### Mi canal de Twitch:
-- [Canal](https://www.twitch.tv/alee_jr_)
 
 [linkedin]: https://www.linkedin.com/in/marcos-alejandro-miranda/
 [instagram]: https://www.instagram.com/ale_miranda13/

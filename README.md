@@ -1,11 +1,10 @@
-![GitHub Views](https://komarev.com/ghpvc/?username=AleeM13&color=2685BF)
-
 ### Hola soy Alejandro Miranda 👋
  
 ## Full stack web developer
 - 🌱 Aprendiendo nuevas tecnologías.
 - 🏢 Me gustaría formarme profesinonalmente.
-- 👯 Tengo facilidad para trabajar en equipo
+- 👯 Tengo facilidad para trabajar en equipo.
+-  Soy de Santiagdo del Estero, Argentina.
 - ⚡ Fun fact: Me gustan la música y los videojuegos!
 
 ### Mis redes:

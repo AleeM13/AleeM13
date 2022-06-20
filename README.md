@@ -3,8 +3,8 @@
 ## Full stack web developer
 - 🌱 Aprendiendo nuevas tecnologías.
 - 🏢 Me gustaría formarme profesinonalmente.
+- 📫 Contáctame en ale.miranda4503@gmail.com
 - 👯 Tengo facilidad para trabajar en equipo.
-- 🇦🇷 Soy de Santiagdo del Estero, Argentina.
 - ⚡ Fun fact: Me gustan la música y los videojuegos!
 
 ### Mis redes:
